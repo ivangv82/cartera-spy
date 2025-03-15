@@ -1,0 +1,6 @@
+streamlit
+norgatedata
+pandas
+numpy
+matplotlib.pyplot
+from scipy.stats import linregress
